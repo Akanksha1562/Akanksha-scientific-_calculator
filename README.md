@@ -1,3 +1,4 @@
+Scientific calculator using HTML ,CSS and Javascript.
 1) HTML Structure:
     Here I create the basic HTML Structure of the calcultor. Use various tags to define the different section , such as the display area, buttons, 
     and other element.
