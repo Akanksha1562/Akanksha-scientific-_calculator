@@ -1,4 +1,3 @@
-Scientific calculator
 
 Scientific calculator using HTML ,CSS and Javascript.
 1) HTML Structure:
